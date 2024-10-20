@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="mailto:aya.w.ahmadd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ayaahmad" target="_blank">
+  <a href="https://linkedin.com/in/aya-ahmad-66533b21b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/aya-ahmad" target="_blank">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aya-ahmad-66533b21b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/your-github-profile" target="_blank"><img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
