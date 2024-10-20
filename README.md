@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...,
 -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aya-ahmad.aya-ahmad" />
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   🔭 I’m currently working on **improving my skills in coding**
   
- 🌱 I’m constantly learning **new technologies and languages like Python and Java**
+ 🌱 I’m constantly learning **new technologies and programming languages like Python**
  
  👯 I’m looking to collaborate on **open-source projects that promote innovation and inclusivity**
  
