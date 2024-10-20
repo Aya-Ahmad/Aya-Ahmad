@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   🔭 I’m currently working on **improving my skills in coding**
   
- 🌱 I’m constantly learning **new technologies and languages like Python, Node.js, and Java**
+ 🌱 I’m constantly learning **new technologies and languages like Python and Java**
  
  👯 I’m looking to collaborate on **open-source projects that promote innovation and inclusivity**
  
