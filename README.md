@@ -38,7 +38,6 @@ I’m curious to meet talented, humble, and fun people who are a bit crazy about
  ⚡ Fun fact: **If at first you don’t succeed, call it version 1.0 ⏳😅**
 
  </div> 
-<br/>
 
 ---
 
