@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **`Logic Lady (The Aspiring Algorithmist )`**
 
-As a beginner developer, I see coding as more than just a skill — it's my gateway to creativity. I’m on an exciting journey to explore the world of technology and inspire others along the way. You know whats great about being a developer? When you find something you don't like you can just build a better version of it. One of the things I enjoy most about programming is the constant learning and growth. There is always something new to discover, explore, and master 📈.
+As a beginner developer, I see coding as more than just a skill — it's my gateway to creativity. I’m on an exciting journey to explore the world of technology and inspire others along the way. You know what's great about being a developer? When you find something you don't like, you can just build a better version of it! One of the things I enjoy most about programming is the constant learning and growth. There is always something new to discover, explore, and master 📈. 
 I’m curious to meet talented, humble, and fun people who are a bit crazy about coding, tech, and lifelong learning!
 
    <p align="left">
