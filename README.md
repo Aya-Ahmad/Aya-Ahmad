@@ -62,7 +62,7 @@ I’m curious to meet talented, humble, and fun people who are a bit crazy about
 
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
 </div>
 
