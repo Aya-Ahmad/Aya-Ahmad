@@ -29,15 +29,7 @@ I’m curious to meet talented, humble, and fun people who are a bit crazy about
 
 <br/>
 
-<div align="left">
 
-  🔭 I’m currently working on **improving my skills in coding**
-  
- 🌱 I’m constantly learning **new technologies and programming languages like Python, JavaScript, CSS ..**
- 
- ⚡ Fun fact: **If at first you don’t succeed, call it version 1.0 ⏳😅**
-
- </div> 
 
 ---
 
