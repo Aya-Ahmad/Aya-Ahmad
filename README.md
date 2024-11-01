@@ -39,12 +39,6 @@ I’m curious to meet talented, humble, and fun people who are a bit crazy about
 <a href="mailto:aya.w.ahmadd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aya-ahmad-66533b21b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/aya-ahmad" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
 
 </p>
 
